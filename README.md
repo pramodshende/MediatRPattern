@@ -1,0 +1,2 @@
+# MediatRPattern
+Mediator Pattern Example
